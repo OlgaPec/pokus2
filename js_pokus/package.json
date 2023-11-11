@@ -1,0 +1,13 @@
+{
+    "name": "moje-aplikace",
+    "version": "1.0.0",
+    "description": "Popis mé aplikace",
+    "main": "ahoj.js",
+    "scripts": {
+      "start": "node ahoj.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+      
+    }
+  }
